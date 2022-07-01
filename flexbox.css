@@ -1,0 +1,18 @@
+.flex-container{
+    height: 200px;
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;/* justify content for x axis and align items for y axis*/
+    align-items: center;
+}
+.flex-items{
+    width:100px;
+    height: 100px;
+    border:2px solid blue;
+    
+}
+.alignself{
+    align-self: flex-start;
+}

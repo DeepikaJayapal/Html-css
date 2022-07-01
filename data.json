@@ -1,0 +1,9 @@
+{
+    "name":"deepika",
+    "age":23,
+    "result":true,
+    "address":{
+        "door_no":10,
+        "street":"cfhjhtg"
+    }
+}
